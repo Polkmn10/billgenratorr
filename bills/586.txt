@@ -1,0 +1,18 @@
+		**Welcome Customer**
+
+Bill Number: 586
+
+Customer Name: sachin
+
+Customer Phone Number: fgh
+
+=======================================================Product			Quantity			Price
+=======================================================
+Bath Soap			3			60 RS
+Daal			1			100 RS
+-------------------------------------------------------
+Cosmetic Tax				7.199999999999999RS
+Grocery Tax				5.0RS
+
+Total Bill 				 172.2
+-------------------------------------------------------
